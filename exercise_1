@@ -1,0 +1,9 @@
+age = int(input("please enter your age"))
+name = 'Golshan'
+# this is my name
+message = 'your age less of 18 old'
+message1 = 'welcome to the Site'
+if age < 18:
+    print(f"Hi {name}, {message}")
+if age > 18:
+    print(f"Hi, Mr/Ms {name}, {message1}")

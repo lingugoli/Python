@@ -1,4 +1,4 @@
-age = int(input("please enter your age"))
+age = int(input("please enter your age": ))
 name = 'Golshan'
 # this is my name
 message = 'your age less of 18 old'

@@ -1,0 +1,8 @@
+x = int(input("enter x": ))
+y = int(input("enter y": ))
+if x > y:
+    print(f"{x} great of {y}")
+elif x < y:
+    print(f"{x} less of {y}")
+elif x == y:
+    print(f"{x} equal to {y}")
